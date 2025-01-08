@@ -25,6 +25,14 @@ My name is Luara Kelly, I am currently interested in all things JavaScript & Ful
 #
 
 <!--
+<details>
+ <summary><h3>👨‍💻 Luara's Coding Journey</h3></summary>
+   ...
+-->
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
+
+<!--
 **luarakelly/luarakelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,4 +46,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📊 Stats
+
+![Luara's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 -->
