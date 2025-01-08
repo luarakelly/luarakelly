@@ -2,7 +2,7 @@
 My name is Luara Kelly, I am currently interested in all things JavaScript & Full-Stack!
 
 - 🔭 I’m currently working on TrailPulse, building an outdoors sports track for android mobile app.
-- ⚡ I recently configurated Home Assistant OS to integrate relays and automate the energy consumption of appliances by scheduling them during the cheapest hours.
+- ⚡ I recently configurated HA OS to integrate relays and automate the energy consumption of appliances by scheduling them during the cheapest hours.
 - 🌱 I’m currently learning about local hosted MBtiles & @maplibre.
 - 👯 I’m looking to collaborate on open-source projects or anything related to Full-Stack development, JavaScript, and smart home automation.
 
