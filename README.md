@@ -24,11 +24,19 @@ My name is Luara Kelly, I am currently interested in all things JavaScript & Ful
 
 #
 
-<!--
 <details>
- <summary><h3>👨‍💻 Luara's Coding Journey</h3></summary>
-   Comming soon...
--->
+  <summary align="center">  More Information :warning: </summary>
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luarakelly&langs_count=20&layout=compact" /> <br />
+      <br />
+      <img width=550 src="https://github-readme-stats.vercel.app/api?username=luarakelly&show_icons=true&theme=highcontrast" /> <br />
+      <br />
+      <img width=950 src="https://github-profile-trophy.vercel.app/?username=luarakelly&column=7&theme=gruvbox&no-frame=true" /> <br />
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luarakelly&theme=dark" /> <br/>  <br/>
+:octocat:  
+</details>
+
 [Portfolio]: [https://fkcodes.com](https://full-stack-devlopment.netlify.app/)
 [LinkedIn]: https://www.linkedin.com/in/luara-kelly-silva/
 
