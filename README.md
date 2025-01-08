@@ -27,10 +27,10 @@ My name is Luara Kelly, I am currently interested in all things JavaScript & Ful
 <!--
 <details>
  <summary><h3>👨‍💻 Luara's Coding Journey</h3></summary>
-   ...
+   Comming soon...
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[Portfolio]: [https://fkcodes.com](https://full-stack-devlopment.netlify.app/)
+[LinkedIn]: https://www.linkedin.com/in/luara-kelly-silva/
 
 <!--
 **luarakelly/luarakelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
