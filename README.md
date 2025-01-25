@@ -30,6 +30,7 @@ My name is Luara Kelly, I am currently interested in all things JavaScript & Ful
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luarakelly&langs_count=20&layout=compact" /> <br />
       <br />      
 :octocat:  
+  
 </details>
 
 [Portfolio]: [https://fkcodes.com](https://full-stack-devlopment.netlify.app/)
